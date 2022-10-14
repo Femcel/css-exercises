@@ -1,0 +1,22 @@
+p {
+  background-color: #FFC0CB;
+  font-family: "Verdana", "Dejavu Sans", sans-serif;
+
+}
+
+#number-2 {
+  color: #0000CD;
+  font-size: 36px; 
+}
+
+#number-4 {
+  background-color: #3CB371;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#cool-class{
+  font-size: 24px;
+
+
+}

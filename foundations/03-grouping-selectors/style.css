@@ -1,0 +1,18 @@
+#no{
+  background-color: hsl(62, 100%, 50%);
+
+
+}
+
+#yes{
+  background-color: hsl(0,0%,0%);
+  color: white;
+  
+}
+
+
+button{
+  border-color: white;
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
